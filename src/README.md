@@ -24,4 +24,3 @@ Valid Statement
 AST Created
 Semantic Analysis Successful
 t1 = 4 + 5
-a = t1
